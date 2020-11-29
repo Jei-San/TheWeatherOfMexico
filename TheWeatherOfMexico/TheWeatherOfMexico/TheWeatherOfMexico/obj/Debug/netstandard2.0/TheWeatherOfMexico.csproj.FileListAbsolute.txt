@@ -1,0 +1,15 @@
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\bin\Debug\netstandard2.0\TheWeatherOfMexico.deps.json
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\bin\Debug\netstandard2.0\TheWeatherOfMexico.dll
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\TheWeatherOfMexico.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\TheWeatherOfMexico.AssemblyInfoInputs.cache
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\TheWeatherOfMexico.AssemblyInfo.cs
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\bin\Debug\netstandard2.0\ref\TheWeatherOfMexico.dll
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\bin\Debug\netstandard2.0\TheWeatherOfMexico.pdb
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\Views\WeatherPage.xaml.g.cs
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\TheWeatherOfMexico.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\TheWeatherOfMexico.dll
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\ref\TheWeatherOfMexico.dll
+C:\Users\jason\source\repos\TheWeatherOfMexico\TheWeatherOfMexico\TheWeatherOfMexico\obj\Debug\netstandard2.0\TheWeatherOfMexico.pdb
